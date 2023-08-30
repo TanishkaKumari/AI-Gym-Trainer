@@ -77,13 +77,13 @@ specifies the point onto which it calculates the angle. And thus, returns the an
 Clone the project
 
 ```bash
-  git clone https://github.com/TanishkaKumari/Finger-Counter
+  git clone https://github.com/TanishkaKumari/AI-Gym-Trainer
 ```
 
 Go to the project directory
 
 ```bash
-  cd CountFingers
+  cd AI_Personal_Trainer
 ```
 
 Install dependencies
